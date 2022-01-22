@@ -1,0 +1,29 @@
+.todolist__ul {
+    background-color: rgb(198, 161, 209);
+}
+
+.todolist__li {
+    font-size: 27px;
+
+    color: rgb(214, 237, 255);
+}
+
+.timer {
+    display: flex;
+    justify-content:space-evenly;      
+}
+.title{
+    font-size: 30px;
+}
+.timer__block{
+    border-radius:10px;
+    width: 100px;
+	height: 100px;
+	background: rgb(255, 255, 255);
+    box-shadow: 3px 5px 10px;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+    font-size: 30px;
+    font-weight: 700;
+}
